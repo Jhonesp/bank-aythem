@@ -1,0 +1,20 @@
+.bancos_container{
+    padding: 20px 10px 10px;
+    width: 10rem;
+    height: 6rem;
+    border-radius: 5px;
+    outline: 1px #E7E9ED solid;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.bancos_container .bancos_icono svg{
+    font-size: 50px;
+}
+
+.bancos_container .bancos_nombre h3{
+    color: black;
+    margin-top: 0;
+}
